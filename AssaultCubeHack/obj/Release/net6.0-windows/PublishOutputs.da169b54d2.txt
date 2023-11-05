@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AC_Hack\AssaultCubeHack.exe
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AC_Hack\AssaultCubeHack.dll
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AC_Hack\AssaultCubeHack.deps.json
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AC_Hack\AssaultCubeHack.runtimeconfig.json
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AC_Hack\AssaultCubeHack.pdb

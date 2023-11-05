@@ -1,0 +1,32 @@
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.exe
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.deps.json
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.runtimeconfig.json
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.dll
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.pdb
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.Form1.resources
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.dll
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\refint\AssaultCubeHack.dll
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.pdb
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack\AssaultCubeHack\obj\Debug\net6.0-windows\ref\AssaultCubeHack.dll
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.exe
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.deps.json
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.runtimeconfig.json
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.dll
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\bin\Debug\net6.0-windows\AssaultCubeHack.pdb
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.Form1.resources
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.dll
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\refint\AssaultCubeHack.dll
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.pdb
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\AssaultCubeHack.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\coding\6841\assaultcube\AssaultCubeHack - Copy\AssaultCubeHack\obj\Debug\net6.0-windows\ref\AssaultCubeHack.dll

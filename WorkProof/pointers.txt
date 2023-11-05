@@ -1,0 +1,12 @@
+Player: 	00BCEDA0
+Ammo: 		00BCEEE0 - 00BCEDA0 = 140
+Grenade:	00BCEEE4 - 00BCEDA0 = 144
+Health:		00BCEE8C - 00BCEDA0 = EC
+Armour:		00BCEE90 - 00BCEDA0 = F0
+
+x(?) Position:	00BCEDA4 - 00BCEDA0 = 4
+z(?) Position:	00BCEDA8 - 00BCEDA0 = 8
+y Position:	00BCEDAC - 00BCEDA0 = C
+
+x Vision:	00BCEDD4 - 00BCEDA0 = 34
+y Vision:	00BCEDD8 - 00BCEDA0 = 38
